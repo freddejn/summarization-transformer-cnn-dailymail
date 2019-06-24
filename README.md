@@ -1,7 +1,7 @@
 # Evaluation of the Transformer model for summarization on the CNN/Dailymail dataset
 
 1. Preprocessing ([preprocess.ipynb](preprocess.ipynb))
-  * Preprocesses data and stores in GCS-bucket
+   * Preprocesses data and stores in GCS-bucket
 2. Exploring dataset ([dataset_metadata.ipynb](dataset_metadata.ipynb))
    * Reads dataset and plots summary of input and output lengths
 3. Model training ([training.ipynb](training.ipynb))
