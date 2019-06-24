@@ -2,5 +2,5 @@
 
 1. Preprocessing (`preprocess.ipynb`)
 2. Exploring dataset (`dataset-metadata.ipynb`)
-3. Model training
+3. Model training (`training.ipynb`)
 4. Model evaluation
